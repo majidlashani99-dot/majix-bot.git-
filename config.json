@@ -1,0 +1,43 @@
+{
+  "token": "8577648720:AAEqasO_vRW0iUJHMiLI7B31mEDRhBxBlmE",
+  "chat_id": "84433035",
+  "count": 150,
+  "wait": 6.0,
+  "signal": [
+    990,
+    208
+  ],
+  "sl": [
+    990,
+    248
+  ],
+  "tp1": [
+    990,
+    269
+  ],
+  "entry": [
+    990,
+    228
+  ],
+  "tp2": [
+    990,
+    289
+  ],
+  "levels": true,
+  "photo": true,
+  "shot": [
+    56,
+    90,
+    1070,
+    668
+  ],
+  "tesseract": "",
+  "width": 1366,
+  "height": 768,
+  "cooldown": 1800.0,
+  "popup": true,
+  "sound": true,
+  "symbols": "",
+  "proxy": "http://198.18.0.1:8080",
+  "mode": "proxy"
+}
